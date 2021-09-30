@@ -1,4 +1,7 @@
 <?php
+/*
+Read a file into an array.
+*/
 
 $array = file("test.txt");
 
